@@ -87,8 +87,6 @@ A total of **10 publicly indexed mathematics PDF resources/listings** were ident
 
 ### 📸 Evidence
 
-### 📸 Evidence
-
 ![Mathematics PDF Search](screenshots/PM2-task2-1.jpg)
 
 ![Mathematics PDF Results](screenshots/PM2-task2-2.jpg)
