@@ -34,7 +34,7 @@ For privacy and security reasons, third-party camera URLs, IP addresses, credent
 
 ### 📸 Evidence
 
-![GHDB Camera Search](screenshots/task1-ghdb-camera-search.png)
+(screenshots/PM2-1.jpg)
 
 > ⚠️ This exercise was performed for educational purposes. No unauthorized access, exploitation, or interaction with third-party camera systems was performed.
 
