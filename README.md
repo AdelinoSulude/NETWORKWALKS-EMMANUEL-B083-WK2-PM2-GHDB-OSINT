@@ -34,7 +34,7 @@ For privacy and security reasons, third-party camera URLs, IP addresses, credent
 
 ### 📸 Evidence
 
-screenshots/PM2-1.jpg
+https://github.com/AdelinoSulude/NETWORKWALKS-EMMANUEL-B083-WK2-PM2-GHDB-OSINT/blob/main/screenshots/PM2-1.jpg
 
 > ⚠️ This exercise was performed for educational purposes. No unauthorized access, exploitation, or interaction with third-party camera systems was performed.
 
