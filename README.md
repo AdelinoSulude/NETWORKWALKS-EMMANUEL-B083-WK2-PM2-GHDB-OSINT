@@ -34,7 +34,11 @@ For privacy and security reasons, third-party camera URLs, IP addresses, credent
 
 ### 📸 Evidence
 
-https://github.com/AdelinoSulude/NETWORKWALKS-EMMANUEL-B083-WK2-PM2-GHDB-OSINT/blob/main/screenshots/PM2-1.jpg
+![GHDB Search](screenshots/PM2-1.jpg)
+
+![GHDB Results](screenshots/PM2-2.jpg)
+
+![GHDB Methodology](screenshots/PM2-3.jpg)
 
 > ⚠️ This exercise was performed for educational purposes. No unauthorized access, exploitation, or interaction with third-party camera systems was performed.
 
@@ -83,7 +87,11 @@ A total of **10 publicly indexed mathematics PDF resources/listings** were ident
 
 ### 📸 Evidence
 
-![Mathematics PDF Search](screenshots/task2-mathematics-pdf-search.png)
+### 📸 Evidence
+
+![Mathematics PDF Search](screenshots/PM2-task2-1.jpg)
+
+![Mathematics PDF Results](screenshots/PM2-task2-2.jpg)
 
 ---
 
